@@ -1,0 +1,25 @@
+.contPrin{
+    background-color: #EEEEEE;
+  
+}
+.title{
+    font-family: Merriweather, Arial;
+    
+}
+.subtitle{
+    font-family: Slabo, serif;
+  }
+.imgP{
+    width: 90%;
+  }
+.txtFoot{
+    font-size: 14px;
+  }
+.text{
+    font-family:Arial;  
+    width: 75%;
+}
+.line{
+    border-width: 50px;
+    border-color: black;
+}
